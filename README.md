@@ -1,5 +1,6 @@
 # calculator
 this is a simple calculator using HTML, CSS , JS.
 
-![image](https://user-images.githubusercontent.com/42828778/124138358-34303b80-daa4-11eb-8e74-1f5d3bea4735.png)
+![image](https://user-images.githubusercontent.com/42828778/124138765-97ba6900-daa4-11eb-87a3-1d15777a8b90.png)
+
 
